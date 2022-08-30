@@ -102,7 +102,6 @@ pytorch-pretrained-bert
 pyttsx3
 pytweening
 pytz
-pywin32
 PyYAML
 queuelib
 regex
