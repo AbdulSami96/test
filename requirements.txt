@@ -91,7 +91,6 @@ PyMsgBox
 pyOpenSSL
 pyparsing
 pyperclip
-pypiwin32
 pyppeteer
 pyquery
 PyRect
