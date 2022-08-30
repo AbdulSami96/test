@@ -38,7 +38,7 @@ EMAIL_HOST_USER = 'min332759@gmail.com'
 EMAIL_HOST_PASSWORD = 'vbbsumwuqtdzzhpa'
 EMAIL_USE_TLS = True
 
-ALLOWED_HOSTS = ['https://still-forest-68517.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 
