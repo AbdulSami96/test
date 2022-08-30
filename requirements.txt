@@ -60,7 +60,6 @@ jmespath
 joblib
 lazy-object-proxy
 lxml
-mailer
 MarkupSafe
 mccabe
 MouseInfo
