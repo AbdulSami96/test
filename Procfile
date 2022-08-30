@@ -1,1 +1,1 @@
-web: gunicorn ourmart.wsgi--log-file -
+web: gunicorn ourmart.wsgi
