@@ -13,6 +13,7 @@ cachetools==5.2.0
 camelcase==0.2
 certifi==2021.5.30
 cffi==1.15.0
+pytz
 chardet==3.0.4
 charset-normalizer==2.0.8
 click==8.0.1
