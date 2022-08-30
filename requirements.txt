@@ -104,8 +104,6 @@ pytz
 PyYAML
 queuelib
 regex
-requests
-requests-html
 rfc3986
 rsa
 s3transfer
