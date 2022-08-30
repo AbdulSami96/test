@@ -85,8 +85,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'ourmart.wsgi.application'
-
-STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
